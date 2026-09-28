@@ -1,9 +1,23 @@
 {
   "name": "ai-youtube-os",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AI 에이전트로 유튜브 영상을 매일 만드는 운영 구조: 채널 폴더 생성, 일일 제작, 업로드 전 검수.",
-  "author": { "name": "Channelroom Studio", "email": "hello@channelroom.app" },
+  "author": {
+    "name": "Channelroom Studio",
+    "email": "hello@channelroom.app"
+  },
   "homepage": "https://comfortable-radio-a87.notion.site/AI-3e9caee1d5478053bca1f576a6aa16f9",
   "license": "MIT",
-  "keywords": ["youtube", "shorts", "automation", "video", "korean"]
+  "keywords": [
+    "youtube",
+    "shorts",
+    "automation",
+    "video",
+    "korean"
+  ],
+  "displayName": "AI YouTube OS",
+  "repository": "https://github.com/channelroom-studio/ai-youtube-os",
+  "supportUrl": "https://github.com/channelroom-studio/ai-youtube-os/issues",
+  "documentationUrl": "https://github.com/channelroom-studio/ai-youtube-os/blob/main/plugins/ai-youtube-os/README.md",
+  "privacyPolicyUrl": "https://github.com/channelroom-studio/ai-youtube-os/blob/main/plugins/ai-youtube-os/PRIVACY.md"
 }
