@@ -1,6 +1,6 @@
 {
   "name": "ai-youtube-os",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI 에이전트로 유튜브 영상을 매일 만드는 운영 구조: 채널 폴더 생성, 일일 제작, 업로드 전 검수.",
   "author": { "name": "Channelroom Studio", "email": "hello@channelroom.app" },
   "homepage": "https://comfortable-radio-a87.notion.site/AI-3e9caee1d5478053bca1f576a6aa16f9",
