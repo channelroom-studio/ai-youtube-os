@@ -1,7 +1,6 @@
 ---
 description: 업로드 전 영상 파일을 검수한다 (오디오, 길이, 해상도, 자막)
 argument-hint: '<mp4 경로> [srt 경로]'
-allowed-tools: Read, Bash(ffprobe:*), Bash(ffmpeg:*), Bash(python3:*)
 ---
 
 `$ARGUMENTS`의 영상을 업로드 전에 검수한다.

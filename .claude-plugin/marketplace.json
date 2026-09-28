@@ -6,13 +6,13 @@
   },
   "metadata": {
     "description": "AI 에이전트로 유튜브 채널을 매일 운영하는 Claude Code 플러그인",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "ai-youtube-os",
       "description": "채널 설정 파일 + 운영 매뉴얼 + 매일 제작 명령. Claude Code가 리서치·대본·음성·렌더·자막·검수를 같은 순서로 반복합니다.",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "author": { "name": "Channelroom Studio" },
       "source": "./plugins/ai-youtube-os"
     }
