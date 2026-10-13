@@ -49,7 +49,7 @@ AI 에이전트(Claude Code)로 유튜브 채널을 **매일 빠지지 않고** 
 
 - **가이드 전문**: [AI 에이전트로 유튜브 영상을 매일 자동으로 만드는 법](https://comfortable-radio-a87.notion.site/AI-3e9caee1d5478053bca1f576a6aa16f9)
 - **노션 운영 OS 템플릿**: 채널·에피소드·지표·비용·권리를 한 곳에서 관리 ([무료 Lite](https://comfortable-radio-a87.notion.site/80dcaee1d547830495f7019b18851bc1))
-- **1:1 세팅 서비스**: 이 구조를 여러분 PC와 채널에 맞게 원격으로 세팅해 드립니다 — 크몽 "채널룸스튜디오" (심사 중)
+- **1:1 세팅 서비스**: 이 구조를 여러분 PC와 채널에 맞게 원격으로 세팅해 드립니다 — [크몽 "AI 유튜브 영상 제작 자동화 파이프라인 구축"](https://kmong.com/gig/829333)
 - 문의: hello@channelroom.app · 인스타그램 [@channelroom.studio](https://www.instagram.com/channelroom.studio/)
 
 ## 라이선스
